@@ -8,4 +8,4 @@ git push -u origin main
 
 ##  Удаленная работа
 Вносим изменения удаленно и выкачиваем их
-git pull -u origin main](https://github.com/MichaelNogovitsyn/Lesson3.git)
+git pull https://github.com/MichaelNogovitsyn/Lesson3.git
